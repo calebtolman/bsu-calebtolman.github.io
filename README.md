@@ -1,2 +1,7 @@
-# calebtolman.github.io
-Quickstart GitHub Pages example tutorial for Boise State CS-HU 250
+## Welcome to Example GitHub Page
+
+# calebtolman@u.boisestate.edu
+
+Link to [My GitHub Page](https://github.com/calebtolman)
+
+[]!()
