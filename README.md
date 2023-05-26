@@ -4,4 +4,4 @@
 
 Link to [My GitHub Page](https://github.com/calebtolman)
 
-This page is hosted at [bsu-calebtolman.github.io](bsu-calebtolman.github.io)
+This page is hosted at [calebtolman.github.io](calebtolman.github.io)
